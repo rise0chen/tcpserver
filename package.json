@@ -1,13 +1,13 @@
 {
   "name": "tcpserver",
-  "version": "1.0.1",
+  "version": "0.1.0",
   "description": "A simple tcp server",
   "main": "index.js",
   "author": "rise0chen",
   "homepage": "http://blog.crise.cn/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rise0chen/hexo-deployer-qiniucloud.git"
+    "url": "https://github.com/rise0chen/tcpserver"
   },
   "keywords": [
     "tcp",
