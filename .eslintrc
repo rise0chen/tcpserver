@@ -1,0 +1,12 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "rules": {
+    "indent": ["error", 2],
+    "no-var": "error",
+    "prefer-const": "off",
+    "comma-dangle": ["error", "always-multiline"],
+    "eqeqeq": "off"
+  }
+}
